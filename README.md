@@ -4,6 +4,7 @@
 This crate provides a simple interface for getting information on mounted disks on Unix systems.
 Example
 
+```
 extern crate mounted_disks;
 
 fn main() {
@@ -19,9 +20,11 @@ Installation
 
 To use this crate in your project, add the following dependency to your Cargo.toml file:
 
+
 [dependencies]
 mounted_disks = "0.1"
 
+```
 License
 
 This crate is licensed under the Apache license. See the LICENSE file for details.
