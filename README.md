@@ -1,5 +1,5 @@
 
-# Mounted Disks Crate
+# Mounted Disk Crate
 
 This crate provides a simple interface for getting information on mounted disks on Unix systems.
 Example
